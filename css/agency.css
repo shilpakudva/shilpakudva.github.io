@@ -668,6 +668,11 @@ ul.social-buttons li a:active {
   padding: 100px 0;
   text-align: center;
 }
+.hangingindent {
+  padding-left: 22px ;
+  text-indent: -22px ;
+}
+
 .portfolio-modal .modal-content h2 {
   margin-bottom: 15px;
   font-size: 3em;
