@@ -245,7 +245,7 @@ header .intro-text .intro-lead-in {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: italic;
   font-size: 22px;
-  line-height: 22px;
+  line-height: 15px;
   margin-bottom: 25px;
 }
 header .intro-text .intro-heading {
@@ -265,7 +265,7 @@ header .intro-text .intro-heading {
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: italic;
     font-size: 40px;
-    line-height: 40px;
+    line-height: 20px;
     margin-bottom: 25px;
   }
   header .intro-text .intro-heading {
